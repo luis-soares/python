@@ -15,7 +15,7 @@ def print_test1():
 
 
 def hello(name):
-    print('Hello', end=' ') #test function end from print
+    print('Hello', end=' ') #only test function end from print
     print (name)
 
 hello('Luis')
